@@ -1,0 +1,8 @@
+body{text-align: center; background-color: aqua;}
+h1.titulo { color: blueviolet;}
+p.carta {text-align: left;}
+img.carta {height: 100px; width: 100px ;}
+p.cafe {text-align: center; color: crimson;}
+img.cafe { width: 20px; height: 20px;}
+p.contacto {width: 100px; height: 100px ;}
+img.contacto {height: 100px; width: 100px; text-align: right;}
